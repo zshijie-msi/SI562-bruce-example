@@ -1,3 +1,32 @@
-# SI562-bruce-example
-# In this exercise, I learned how to create a branch, how to pull a request and how to commit. The automatic bot is really interesting, although I have been using GitHub for almost a year, that is the first time I have seen such bot.
-# For the thing that confuses me the most is that for now, we have only explored the "Code" "Issues" and "Pull requests" functions on the navigation bar, but not the other functions, I would like to know what other functions do and how to use them effewctively.
+# SI562-bruce-example-PROFILE
+
+# Bruce Zhang 
+
+zshijie · He/Him
+
+# Academic Background
+
+Media & Arts, with a focus on video editing and sound/music production.
+
+# Relevant Experience
+
+Graphic design, programming coursework, and vibe coding.
+
+# Career Goal
+
+Create thoughtful interfaces that won’t make users say, “That’s just bad design.”
+
+# Why UCAD?
+
+I enjoy turning UX ideas into working interfaces and getting hands-on with code, with the help from AI.
+
+# Technical Toolkit
+
+Python · HTML · CSS · JavaScript · SQL
+
+# A Little About Me
+
+🍄 No mushrooms on my plate, please!
+☀️ Definitely not a rainy-day person.
+🔔 Learning to play the carillon this semester.
+🍎 Recently went fruit picking at Spicer Orchards.
